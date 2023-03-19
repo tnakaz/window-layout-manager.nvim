@@ -1,6 +1,7 @@
 # WindowLayoutManager
 
 WindowLayoutManager is a Neovim plugin that provides commands to manage window layouts in a simple and efficient way.
+![Plugin Demo](https://user-images.githubusercontent.com/13509521/226151388-28d455d6-212f-4db6-899e-ca8b055fc5f9.gif)
 
 ## Features
 
@@ -54,5 +55,5 @@ Plugin 'takuya-nakazawa/window-layout-manager'
 ```
 And then run :PluginInstall.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
